@@ -1,11 +1,11 @@
-<!--- banner --->
+<!-- Banner -->
 <p align="center">
-  <img src="./banner/github_banner.png" alt="Hello World" width="100%">
+  <img src="./banner/banner.png" alt="Fahiya Binthey Hedayet" width="100%">
 </p>
 
 <br/>
 
-<!--- title --->
+<!-- Title -->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
