@@ -1,4 +1,5 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="./banner/banner.png" alt="Fahiya Binthey Hedayet" width="100%">
 </p>
@@ -6,52 +7,54 @@
 <br/>
 
 <!-- Title -->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Hi 👋, I'm Fahiya Binthey Hedayet</h1>
     </summary>
-
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Learning+Full-Stack+Web+Development;JavaScript+Enthusiast;Building+for+the+Web"
-        alt="Typing SVG"
-      />
-    </a>
   </ul>
 </div>
 
 <br/>
 
-<!--- about --->
+<!-- About -->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>ABOUT ME:</b>
 
-- 👋 Hi, I'm **Fahiya Binthey Hedayet**
-- 💻 I'm a **passionate frontend developer from Bangladesh**.
-- 🌱 I'm currently learning **full-stack web development**.
-- 📫 Feel free to reach me at **fahiyahedayet@gmail.com**
+* 💻 Passionate **Frontend Developer** from Bangladesh.
+* 🌱 Currently learning **Full-Stack Web Development**.
 
 <br/>
 
-<!--- socials --->
+<!-- Socials -->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>FOLLOW ME ON SOCIALS:</b>
 
-<div>
-  <p align="left">
-    <a href="mailto:fahiyahedayet@gmail.com">
-      <img
-        src="https://skillicons.dev/icons?i=gmail"
-        alt="Email"
-        height="40"
-        width="40"
-      />
-    </a>
-  </p>
-</div>
+<p align="left">
+  <a href="mailto:fahiyahedayet@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="Email"
+      height="40"
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      height="40"
+      width="40"
+    />
+  </a>
+</p>
 
 <br/>
 
-<!--- technology --->
+<!-- Technology Stack -->
+
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b>TECHNOLOGY STACK:</b>
 
 ### Languages:
@@ -68,16 +71,18 @@
 
 <br/>
 
-<!--- learning --->
+<!-- Currently Learning -->
+
 ## <img src="https://media.giphy.com/media/uhQuegHFqkV68/giphy.gif" width="35"> <b>CURRENTLY LEARNING:</b>
 
 [![Currently Learning](https://skillicons.dev/icons?i=javascript,typescript)](https://github.com/fahiyahedayet)
 
-- 🌱 Full-Stack Web Development
+* 🌱 Full-Stack Web Development
 
 <br/>
 
-<!--- statistics --->
+<!-- GitHub Statistics -->
+
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b>GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Statistics:
@@ -109,22 +114,24 @@
 
 <br/>
 
-<!--- random quote --->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>RANDOM DEV QUOTE:</b>
+<!-- Dev Quote -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>DEV QUOTE:</b>
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"
-    alt="Random Dev Quote"
-  />
+  <i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+  <br/>
+  — <b>Thomas Edison</b>
 </p>
 
 ---
 
-<!--- visit count --->
+<!-- Profile Views -->
+
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fahiyahedayet"
+    src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20views&style=flat"
+    alt="Profile views"
   />
 </p>
+``` 
