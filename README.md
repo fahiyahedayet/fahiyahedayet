@@ -6,132 +6,149 @@
 
 <br/>
 
-<!-- Title -->
+<!-- =========================================================
+     ✦ Fahiya Binthey Hedayet — GitHub Profile README ✦
+     ========================================================= -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Fahiya Binthey Hedayet</h1>
-    </summary>
-  </ul>
-</div>
+::: {align="center"}
 
-<br/>
+Hi there, I'm Fahiya 👋
 
-<!-- About -->
+Frontend Developer · Continuous Learner · Problem Solver
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>ABOUT ME:</b>
+<p>
 
-* 💻 Passionate **Frontend Developer** from Bangladesh.
-* 🌱 Currently learning **Full-Stack Web Development**.
+<i>{=html}Turning ideas into meaningful digital experiences, one line
+of code at a time.</i>{=html}
 
-<br/>
-
-<!-- Socials -->
-
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>FOLLOW ME ON SOCIALS:</b>
-
-<p align="left">
-  <a href="mailto:fahiyahedayet@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      alt="Email"
-      height="40"
-      width="40"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      alt="LinkedIn"
-      height="40"
-      width="40"
-    />
-  </a>
 </p>
 
-<br/>
+<br/>{=html}
 
-<!-- Technology Stack -->
+<a href="mailto:fahiyahedayet@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>{=html}
+</a>{=html}
+<a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/" target="_blank">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-7c83fd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
+</a>{=html} <a href="https://github.com/fahiyahedayet">{=html}
+<img src="https://img.shields.io/badge/GitHub-343a40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
+</a>{=html}
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b>TECHNOLOGY STACK:</b>
+<br/>{=html}<br/>{=html}
 
-### Languages:
+<img src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20Views&color=7c83fd&style=flat-square" alt="Profile views"/>{=html}
+:::
 
-[![Languages](https://skillicons.dev/icons?i=c,javascript,typescript)](https://github.com/fahiyahedayet)
+🌷 A little about me
 
-### Design & UI:
+I'm a passionate Frontend Developer from Bangladesh who enjoys
+turning ideas into clean, practical, and user-friendly web experiences.
 
-[![Design & UI](https://skillicons.dev/icons?i=figma)](https://github.com/fahiyahedayet)
+I like understanding why things work, not just making them work.
+Right now, I'm expanding my skills from frontend development toward
+full-stack web development, while continuously improving my
+problem-solving and coding fundamentals.
 
-### Database:
+💻  Build      →      🧠  Understand      →      🔍  Improve      →      🚀  Grow
 
-[![Database](https://skillicons.dev/icons?i=mysql,oracle)](https://github.com/fahiyahedayet)
+✦ What I value
 
-<br/>
+🧩 Problem Solving --- breaking complex problems into smaller
+pieces
 
-<!-- Currently Learning -->
+🌱 Continuous Learning --- always learning something new
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkV68/giphy.gif" width="35"> <b>CURRENTLY LEARNING:</b>
+🎨 Clean UI --- simple, thoughtful, user-friendly interfaces
 
-[![Currently Learning](https://skillicons.dev/icons?i=javascript,typescript)](https://github.com/fahiyahedayet)
+🔎 Curiosity --- understanding what's happening under the hood
 
-* 🌱 Full-Stack Web Development
+✨ Quality --- writing code I'm proud to maintain
 
-<br/>
+🛠️ My toolkit
 
-<!-- GitHub Statistics -->
+Languages
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b>GITHUB STATISTICS & ANALYSIS:</b>
+<p>
 
-### GitHub Statistics:
+<img src="https://skillicons.dev/icons?i=c,javascript,typescript" alt="C, JavaScript, TypeScript"/>{=html}
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&theme=swift&hide_border=true&include_all_commits=false&count_private=false"
-    alt="Fahiya's GitHub Stats"
-  />
 </p>
 
-### Most Used Languages:
+Frontend & Design
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    alt="Fahiya's Top Languages"
-  />
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS, Figma"/>{=html}
+
 </p>
 
-### GitHub Streak:
+Database
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=default"
-    alt="Fahiya's GitHub Streak"
-  />
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle" alt="MySQL, Oracle"/>{=html}
+
 </p>
 
-<br/>
+🌱 Currently learning
 
-<!-- Dev Quote -->
+::: {align="center"}
+Learning             Focus
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>DEV QUOTE:</b>
+     ⚡ **JavaScript**        Modern JavaScript & ES6+
+     🔷 **TypeScript**        Strongly typed JavaScript
 
-<p align="center">
-  <i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
-  <br/>
-  — <b>Thomas Edison</b>
-</p>
+🌐 Full-Stack Development  Expanding beyond the frontend
+🧠 Problem Solving      Better logic & cleaner solutions
+:::
 
----
+📌 What I'm working toward
 
-<!-- Profile Views -->
+Frontend Development
+       ↓
+Modern JavaScript
+       ↓
+TypeScript
+       ↓
+Full-Stack Web Development
+       ↓
+Building useful things 🚀
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20views&style=flat"
-    alt="Profile views"
-  />
-</p>
-``` 
+I'm focused on building projects that help me turn what I learn into
+real, practical experience.
+
+📊 GitHub at a glance
+
+::: {align="center"}
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's GitHub Stats"/>{=html}
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's Top Languages"/>{=html}
+
+<br/>{=html}<br/>{=html}
+
+<img src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=transparent&hide_border=true" alt="Fahiya's GitHub Streak"/>{=html}
+:::
+
+💭 A thought I keep close
+
+::: {align="center"}
+
+"The secret of getting ahead is getting started."
+
+--- Mark Twain
+
+<br/>{=html}
+
+learn → build → break → fix → repeat → grow
+:::
+
+::: {align="center"}
+
+✨ Thanks for stopping by!
+
+Let's build, learn, and grow together.
+
+<br/>{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c83fd&height=90&section=footer" width="100%" alt="Footer"/>{=html}
+:::
