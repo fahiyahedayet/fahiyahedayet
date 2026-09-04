@@ -79,7 +79,7 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
   <img
     src="https://skillicons.dev/icons?i=mysql,oracle"
     alt="MySQL, Oracle"
