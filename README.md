@@ -118,15 +118,16 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 <!-- Development Journey -->
 
 ## 📌 What I'm working toward
-Frontend Development
-       ↓
-Modern JavaScript
-       ↓
-TypeScript
-       ↓
-Full-Stack Web Development
-       ↓
-Building useful things 🚀
+
+**Frontend Development**  
+↓  
+**Modern JavaScript**  
+↓  
+**TypeScript**  
+↓  
+**Full-Stack Web Development**  
+↓  
+**Building useful things** 🚀
 
 I'm focused on building projects that help me turn what I learn into real, practical experience.
 
