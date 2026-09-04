@@ -118,7 +118,7 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 <!-- Development Journey -->
 
 ## 📌 What I'm working toward
-
+```text
 Frontend Development
        ↓
 Modern JavaScript
@@ -128,6 +128,8 @@ TypeScript
 Full-Stack Web Development
        ↓
 Building useful things 🚀
+
+I'm focused on building projects that help me turn what I learn into real, practical experience.
 
 📊 GitHub at a glance <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's GitHub Stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's Top Languages"> 
 <br><br> 
