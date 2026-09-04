@@ -140,10 +140,6 @@ I'm focused on building projects that help me turn what I learn into real, pract
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's Top Languages" />
-  
-  <br><br>
   
   <img src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=transparent&hide_border=true" alt="Fahiya's GitHub Streak" />
 </div>
