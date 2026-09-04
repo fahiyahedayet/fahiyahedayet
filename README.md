@@ -15,10 +15,7 @@
 
 <div align="center">
 
-<!-- Glowing Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7c83fd&height=120&text=Hi,%20I'm%20Fahiya%20👋&fontSize=40&fontColor=ffffff&animation=twinkle" width="100%" alt="Fahiya's Glowing Header">
-</div>
+# Hi, I'm Fahiya 👋
 
 ### Frontend Developer · Continuous Learner · Problem Solver
 
