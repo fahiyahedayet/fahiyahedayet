@@ -117,82 +117,11 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 
 <!-- Development Journey -->
 
-## 🎯 My Development Journey
+## 📌 What I'm working toward Frontend Development ↓ Modern JavaScript ↓ TypeScript ↓ Full-Stack Web Development ↓ Building useful things 🚀 
+📊 GitHub at a glance <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's GitHub Stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's Top Languages"> 
+<br><br> 
+<img src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=transparent&hide_border=true" alt="Fahiya's GitHub Streak"> </div> 
 
-<div align="center">
-
-```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-ES6+
-     ↓
-TypeScript
-     ↓
-Frontend Development
-     ↓
-Full-Stack Development
-     ↓
-Building meaningful projects 🚀
-
-</div>
-
-I'm focused on turning what I learn into real projects and practical experience.
-
-<br>
-
-<!-- GitHub Statistics -->
-📊 GitHub Statistics
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&theme=transparent"
-alt="Fahiya's GitHub Stats"
-height="170"
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&theme=transparent"
-alt="Fahiya's Top Languages"
-height="170"
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=transparent&hide_border=true"
-alt="Fahiya's GitHub Streak"
-
-</div> <br>
-<!-- Quote -->
-💭 A Thought I Keep Close
-<div align="center">
-✨
-
-"The secret of getting ahead is getting started."
-
-— Mark Twain
-
-<br>
-
-learn → build → break → fix → repeat → grow
-
-</div> <br>
-<!-- Connect --> <div align="center">
-✨ Thanks for stopping by!
-Let's build, learn, and grow together. 🚀
-<br> <a href="mailto:fahiyahedayet@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Connect-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Connect" > </a>
-
-<br><br>
-
-<a href="https://github.com/fahiyahedayet"> <img src="https://img.shields.io/badge/Visit%20My%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Visit My GitHub" > </a> </div>
-
-<br><br>
-
-<!-- Footer --> <div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=7C83FD&height=100&section=footer"
-width="100%"
-alt="Footer"
-
-</div> ```
+💭 A thought I keep close <div align="center"> "The secret of getting ahead is getting started." — Mark Twain <br> learn → build → break → fix → repeat → grow </div> <div align="center"> 
+✨ Thanks for stopping by! Let's build, learn, and grow together. <br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c83fd&height=90&section=footer" width="100%" alt="Footer"> </div>
