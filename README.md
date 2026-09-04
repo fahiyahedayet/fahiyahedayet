@@ -118,7 +118,6 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 <!-- Development Journey -->
 
 ## 📌 What I'm working toward
-```text
 Frontend Development
        ↓
 Modern JavaScript
