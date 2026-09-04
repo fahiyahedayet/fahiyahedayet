@@ -101,7 +101,6 @@ Right now, I'm expanding my skills from frontend development toward **full-stack
 
 ## 📌 What I'm working toward
 
-```text
 Frontend Development
        ↓
 Modern JavaScript
@@ -111,3 +110,28 @@ TypeScript
 Full-Stack Web Development
        ↓
 Building useful things 🚀
+📊 GitHub at a glance
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahiyahedayet&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's GitHub Stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiyahedayet&layout=compact&hide_border=true&include_all_commits=false&count_private=false&theme=transparent" alt="Fahiya's Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=fahiyahedayet&theme=transparent&hide_border=true" alt="Fahiya's GitHub Streak"> </div>
+
+💭 A thought I keep close
+<div align="center">
+
+"The secret of getting ahead is getting started."
+
+— Mark Twain
+
+<br>
+
+learn → build → break → fix → repeat → grow
+
+</div>
+<div align="center">
+✨ Thanks for stopping by!
+
+Let's build, learn, and grow together.
+
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=7c83fd&height=90&section=footer" width="100%" alt="Footer"> </div> ```
