@@ -119,6 +119,8 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 
 ## 📌 What I'm working toward
 
+<div align="center">
+
 **Frontend Development**  
 ↓  
 **Modern JavaScript**  
@@ -128,6 +130,8 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 **Full-Stack Web Development**  
 ↓  
 **Building useful things** 🚀
+
+</div>
 
 I'm focused on building projects that help me turn what I learn into real, practical experience.
 
