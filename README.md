@@ -57,6 +57,8 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
 <p>
@@ -83,7 +85,7 @@ Currently, I'm expanding my skills from frontend development toward **Full-Stack
     alt="MySQL, Oracle"
   >
 </p>
-
+</div>
 <br>
 
 ---
