@@ -25,32 +25,7 @@
 
 <br>
 
-<a href="mailto:fahiyahedayet@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/fahiyahedayet">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20Views&color=7C83FD&style=flat-square"
-  alt="Profile Views"
->
-
-</div>
-
-<br>
+<a href="mailto:fahiyahedayet@gmail.com"> <img src="https://img.shields.io/badge/Email-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> &nbsp; <a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/"> <img src="https://img.shields.io/badge/LinkedIn-7c83fd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> &nbsp; <a href="https://github.com/fahiyahedayet"> <img src="https://img.shields.io/badge/GitHub-343a40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <br><br> <img src="https://komarev.com/ghpvc/?username=fahiyahedayet&label=Profile%20Views&color=7c83fd&style=flat-square" alt="Profile views"> </div>
 
 ---
 
