@@ -26,7 +26,7 @@ Frontend Developer · Problem Solver · Continuous Learner
 
 <br>
 
-📍 Dhaka, Bangladesh
+📍 Chittagong , Bangladesh
 
 <br><br>
 
@@ -48,7 +48,7 @@ Hi! I'm Fahiya Binthey Hedayet, a Frontend Developer from Bangladesh who enjoys 
 
 I'm curious about what happens behind the interface — not just how something looks, but why it works the way it does.
 
-Currently, I'm expanding my skills toward Full-Stack Web Development while strengthening my foundations in JavaScript, TypeScript, React, and modern web technologies.
+Currently, I'm expanding my skills toward Full-Stack Web Development while strengthening my foundations in JavaScript, TypeScript, React and modern web technologies.
 
 <br>
 
@@ -67,7 +67,7 @@ Break problems into smaller pieces	Learn by building	Understand how things work
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📍%20Based%20in-Dhaka%2C%20Bangladesh-7C83FD?style=for-the-badge" alt="Location">
+<img src="https://img.shields.io/badge/📍%20Based%20in-Chittagong%2C%20Bangladesh-7C83FD?style=for-the-badge" alt="Location">
 
 <img src="https://img.shields.io/badge/🎯%20Focus-Full--Stack%20Development-FF6B9D?style=for-the-badge" alt="Focus">
 
