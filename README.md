@@ -11,6 +11,19 @@
 
 <br>
 
+<!-- =========================================================
+     Fahiya Binthey Hedayet
+     GitHub Profile README
+========================================================= -->
+
+<!-- Banner -->
+
+<p align="center">
+  <img src="./banner/banner.png" alt="Fahiya Binthey Hedayet" width="100%">
+</p>
+
+<br>
+
 <!-- Intro -->
 
 <div align="center">
@@ -160,3 +173,4 @@ learn → build → break → fix → repeat → grow
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c83fd&height=90&section=footer" width="100%" alt="Footer"> </div>
+
