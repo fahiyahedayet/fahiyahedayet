@@ -70,8 +70,7 @@ Currently, I'm expanding my skills toward Full-Stack Web Development while stren
 
 <div align="center">
 
-🧩 Problem Solver	🌱 Continuous Learner	🔍 Curious Mind
-Break problems into smaller pieces	Learn by building	Understand how things work
+🧩 Problem Solver	🌱 Continuous Learner
 
 </div>
 
