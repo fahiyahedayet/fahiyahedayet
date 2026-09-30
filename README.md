@@ -15,22 +15,38 @@
 
 <div align="center">
 
+<h1>Hi, I'm Fahiya 👋</h1>
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=650&lines=Frontend+Developer;Full-Stack+Developer+in+Progress;Problem+Solver;Continuous+Learner" alt="Typing introduction">
 
 <br><br>
 
-Hi, I'm Fahiya 👋
-Frontend Developer · Problem Solver · Continuous Learner
-
-<p> <i>Turning ideas into meaningful digital experiences,<br> one line of code at a time.</i> </p>
+<p>
+  <i>Turning ideas into meaningful digital experiences,<br>
+  one line of code at a time.</i>
+</p>
 
 <br>
 
-📍 Chittagong , Bangladesh
+📍 **Chittagong, Bangladesh**
 
 <br><br>
 
-<a href="mailto:fahiyahedayet@gmail.com"> <img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> &nbsp; <a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/"> <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> &nbsp; <a href="https://github.com/fahiyahedayet"> <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+<a href="mailto:fahiyahedayet@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/fahiya-hedayet-b1542a2b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/fahiyahedayet">
+  <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.behance.net/fahiyahedayet">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+</a>
 
 <br><br>
 
